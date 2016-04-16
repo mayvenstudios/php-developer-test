@@ -2,7 +2,7 @@
 
 ## Goal
 
-Please spend no more than 10 hours on this task.  We do not necessarily expect you to be able to finish this entire task in 10 hours, we simply want to see what you can complete in that time frame.
+Please spend no more than 10 hours on this task.  If you cannot complete the entire task in less than 10 hours, please commit what you are able to finish within that time frame.
 
 ## Delivery
 
