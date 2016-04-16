@@ -30,7 +30,7 @@ Please create a new Laravel 5.2 application that fulfills the following function
 For the sake of the test, you will be evaluated solely on two items:
 
 1. Your PHP code
-2. Your Vue.js code (or React.js if you want to)
+2. Your Vue.js code (or React.js if you want to use React)
 
 You do not need to focus at all on the “look and feel” of the application.  The colors of the buttons, the layout, the HTML/CSS - these things do not matter in the case of this test.
 
