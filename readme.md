@@ -19,7 +19,7 @@ Please create a new Laravel 5.2 application that fulfills the following function
 
 ## Task Requirements
 
-1. Please use Laravel 5.2
+1. Please use Laravel 5.2 (you can fork this repo)
 2. Please use Vue.js or React.js on the front end
 3. Please use Twitter Bootstrap for any “look and feel” HTML/CSS elements
 4. Please use the default Laravel authentication for user login and user registration.
