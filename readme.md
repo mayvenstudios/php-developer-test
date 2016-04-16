@@ -34,4 +34,4 @@ For the sake of the test, you will be evaluated solely on two items:
 
 You do not need to focus at all on the “look and feel” of the application.  The colors of the buttons, the layout, the HTML/CSS - these things do not matter in the case of this test.
 
-The most important part is that we should be able to quickly look at the basic front end you build for this app - and after that, we will directly evaluate your PHP and Vue.js code.  Do not get stuck focusing on the visual / look-and-feel because we are not evaluating you on this.
+The most important part is that we should be able to quickly look at and understand how to use the front end you build for this app - and after that, we will directly evaluate your PHP and Vue.js/React.js code.  Do not get stuck focusing on the visual / look-and-feel because we are not evaluating you on this.
